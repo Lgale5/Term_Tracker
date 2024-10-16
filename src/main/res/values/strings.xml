@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Term Tracker</string>
+    <string name="welcome">Student Portal</string>
+    <string name="termButton">Terms</string>
+    <string name="termSelectorButton">Term</string>
+    <string name="coursesButton">Courses</string>
+    <string name="instructorButton">Instructors</string>
+    <string name="assessmentsButton">Assessments</string>
+    <string name="addTerm">Add Term</string>
+    <string name="deleteTerm">Delete Term</string>
+    <string name="editTerm">Edit Term</string>
+    <string name="termName">Term Name</string>
+    <string name="startDate">Start Date</string>
+    <string name="endDate">End Date</string>
+    <string name="courses">Courses</string>
+    <string name="addCourse">Add Course</string>
+    <string name="editCourse">Edit Course</string>
+    <string name="courseName">Course Name</string>
+    <string name="courseNote">Course Note</string>
+    <string name="statusSelectorButton">Status</string>
+    <string name="instructorSelectorButton">Instructor</string>
+    <string name="instructorName">Instructor Name</string>
+    <string name="instructorPhone">Instructor Phone</string>
+    <string name="instructorEmail">Instructor Email</string>
+    <string name="addInstructor">Add Instructor</string>
+    <string name="editInstructor">Edit Instructor</string>
+    <string name="deleteInstructor">Delete Instructor</string>
+    <string name="status">Status</string>
+    <string name="assessments">Assessments</string>
+    <string name="addAssessment">Add Assessment</string>
+    <string name="editAssessment">Edit Assessment</string>
+    <string name="deleteAssessment">Delete Assessment</string>
+    <string name="assessmentName">Assessment Name</string>
+    <string name="assessmentType">Assessment Type</string>
+    <string name="assessmentStartDate">Assessment Start Date</string>
+    <string name="assessmentEndDate">Assessment End Date</string>
+    <string name="createAlert">Create Alert</string>
+    <string name="addAlertNotification">Add Alert Notification</string>
+    <string name="shareNote">Share Note</string>
+    <string name="save">Save</string>
+
+
+</resources>
